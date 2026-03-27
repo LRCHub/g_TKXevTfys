@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Day N Night（feat. G-k.i.d、guca owl、KEIJU）",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-27T07:34:18.487913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Day N Night (feat. G-k.i.d, guca owl & KEIJU)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/01_Day_N_Night_(feat._G-k.i.d,_guca_owl_&_KEIJU)_BAD_HOP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Day N Night feat. G-k.i.d, guca owl & KEIJU",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/02_Day_N_Night_feat._G-k.i.d,_guca_owl_&_KEIJU_BAD_HOP.txt"
+    }
+  ]
+}
